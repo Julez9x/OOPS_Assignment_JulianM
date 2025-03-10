@@ -19,7 +19,13 @@ Merge - Merge different files/branches together.
 
 ## Question 4
 
-
+>Acceptable Use\
+>Password Security\
+>Data Protection and Privacy\
+>Remote Work\
+>Data Backup Procedures\
+>Risk Management\
+>Organisational Efficiency
 
 ## Question 5
 
