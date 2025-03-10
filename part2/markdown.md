@@ -1,23 +1,22 @@
-## Question 1
+## 1. List three major version control software for software engineering. 
 
 - Git
 - CVS
 - Mercurial
 
-## Question 2
+## 2. What are the main advantages to using Git in your software development, and how is it useful for game developers.
 
 A place where you can save your development process and keep an alternative copy in a different location i.e. backing up in a different location. Useful to distribute to different people who are working on the project which can be for different sections/parts of the project and work on the whole together.
 
-## Question 3
+## 3. Define the following terms in relation to Git. Branch, Pull, Push, repository, working copy, merge.
 
 Branch - Different locations for different stages of your process.
 Pull - Download files from Github.
 Push - Finalises upload to Github.
 Repository - Copy of a codebase.
-Working Copy - 
 Merge - Merge different files/branches together.
 
-## Question 4
+## 4. If you are working at a company, which of their policies and procedures might relate to using version control systems such as Git.
 
 >Acceptable Use\
 >Password Security\
@@ -27,48 +26,48 @@ Merge - Merge different files/branches together.
 >Risk Management\
 >Organisational Efficiency
 
-## Question 5
+## 5. Merge conflicts can occur while using Git. List merge tools or diff tools you can use to help you merge and deal with conflicts.
 
 VSCode, VimDiff, P4Merge and JetbrainRyder.
 
-## Question 6
+## 6. In a merged source code file, how does Git let you know there is a conflict?
 
 Lines and arrows indicate the difference between code/lines.
 
-## Question 7
+## 7. What are the steps you can take to resolve Git conflicts?
 
 Choose what you would like to keep or remove.
 
-## Question 8
+## 8. What does git revert do, and how can you use it?
 
-Undoes a commit to remove changes to that commit.
+Undoes a commit to remove changes to that commit. You can go back to a previous commit without having to undo lots of other changes.
 
-## Question 9
+## 9. What does git reset do, and how can you use it?
 
-Moves current position on repo to a different point in the process.
+Moves current position on repo to a different point in the process. You can rewind back to a previous state of a project before potential bugs or issues.
 
-## Question 10
+## 10. What is the difference between git revert and git reset?
 
 Reset goes back to a different location in repo whilst the other one just reverts changes to a commit.
 
-## Question 11
+## 11. True or False: Is it okay to commit broken code to the main branch?
 
 False
 
-## Question 12
+## 12. True or False: You should commit related changes. For example, fixing two different bugs should produce two separate commits.
 
 True
 
-## Question 13
+## 13. Describe what is DevOps, how is it useful for game developers?
 
 A number of different phases which are used to create and develop programs/features. It is useful for game developers because it is a way to rapidly produce work whilst maintaining a consistent flow which can help production and rate of work.
 
-## Question 14
+## 14. List what tools can be used with DevOps. Give a brief description of each one. (at least 3)
 
 Github - Automation tool where developers can quickly edit and upload existing code. \
 Jenkins - Testing tool which helped develop, handle and deliver the product and this requires fast and precise solution so the repetition continues. \
 Buddy - Pipeline (CI/CD) tool which automates code upgrades and ensures changes are consistent with most recent code version.
 
-## Question 15
+## 15. What is CI/CD and how can it be used to automate the game development process.
 
-Continuous Intergration and Continuous Delivery/Development - Detects any changes in the code version either updating it automatically or making you aware of changes. Makes sure the code will work on newer versions without you having to rewrite code.
+Continuous Integration and Continuous Delivery/Development - Detects any changes in the code version either updating it automatically or making you aware of changes. Makes sure the code will work on newer versions without you having to rewrite code.
