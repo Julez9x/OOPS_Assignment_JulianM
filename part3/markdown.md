@@ -1,5 +1,11 @@
 ## 1. Write instructions on installing git on a windows system. Making sure to include- 
 
+<p> Install Instructions </p>
+>Download a version of Git to your liking.\
+>Install on your system.\
+>Open Git on your computer following any steps and accepting.\
+>You may also have to log into a github account otherwise you may skip this step.\
+
 <p> Part A. What are the requirements to install Git on a system. </p>
 
 >System Requirements
