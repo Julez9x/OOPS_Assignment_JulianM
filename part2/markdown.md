@@ -32,11 +32,11 @@ VSCode, VimDiff, P4Merge and JetbrainRyder.
 
 ## 6. In a merged source code file, how does Git let you know there is a conflict?
 
-Lines and arrows indicate the difference between code/lines.
+Lines and arrows indicate the difference between the original code and the new updated code. This will be indicated at the start and end of conflicting sections and seperate the conficts made from different branches.
 
 ## 7. What are the steps you can take to resolve Git conflicts?
 
-Choose what you would like to keep or remove.
+Identify the conflict as shown with the indication markers ">> << == ==", open and edit how you would like the upload to be, resolve said conflict by deleting the markers, add the file back if needed then finally commit and push your merge to finalise.
 
 ## 8. What does git revert do, and how can you use it?
 
