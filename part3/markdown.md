@@ -1,17 +1,18 @@
 ## 1. Write instructions on installing git on a windows system. Making sure to include- 
 
 <p> Install Instructions </p>
->Download a version of Git to your liking.\
+
+>Download a windows version of Git to your liking.\
 >Install on your system.\
->Open Git on your computer following any steps and accepting.\
->You may also have to log into a github account otherwise you may skip this step.\
+>Once installed open Git on your computer following any steps and accepting.\
+>You may also have to log into a Github account.
 
 <p> Part A. What are the requirements to install Git on a system. </p>
 
 >System Requirements
 > Windows 7, 8, 8.1 and 10.\
 > At least 1 GB of Ram, but 2 GB or more is preferred for optimal performance.\
-> A minimum of 50 MB of free disk space.\
+> A minimum of 50 MB of free disk space.
 
 <p> Part B. If you had issues installing Git at the workplace, give instructions on who you could enquire about the installation disruption. </p>
 
