@@ -3,9 +3,8 @@
 <p> Install Instructions </p>
 
 >Download a windows version of Git to your liking.\
->Install on your system.\
->Once installed open Git on your computer following any steps and accepting.\
->You may also have to log into a Github account.
+>Install on your system by following the setup wizard.\
+>Use the next and finish prompts to complete the install.
 
 <p> Part A. What are the requirements to install Git on a system. </p>
 
